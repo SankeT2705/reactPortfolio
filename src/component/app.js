@@ -4,7 +4,7 @@ import Home from './home'
 import About from './about'
 import Project from './project'
 import Contacts from './contacs'
-import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 function App() {
     return (
         <div>
